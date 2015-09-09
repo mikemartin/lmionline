@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-next</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Homepage" sketch:type="MSArtboardGroup" transform="translate(-833.000000, -954.000000)" fill="#6A7A95">
+            <g id="About" sketch:type="MSLayerGroup" transform="translate(-104.000000, 606.000000)">
+                <g id="arrow-with-circle-right" transform="translate(0.000000, 348.000000)" sketch:type="MSShapeGroup">
+                    <path d="M947,0.4 C941.697,0.4 937.399,4.698 937.399,10 C937.399,15.303 941.697,19.601 947,19.601 C952.301,19.601 956.6,15.303 956.6,10 C956.6,4.698 952.301,0.4 947,0.4 L947,0.4 Z M946.999,17.6 C942.802,17.6 939.399,14.198 939.399,10 C939.399,5.802 942.801,2.4 946.999,2.4 C951.197,2.4 954.6,5.803 954.6,10 C954.6,14.197 951.196,17.6 946.999,17.6 L946.999,17.6 Z M947,8 L943,8 L943,12 L947,12 L947,14.5 L951.5,10 L947,5.5 L947,8 L947,8 Z" id="icon-next"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="220px" height="220px" viewBox="0 0 220 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-previous</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Homepage" sketch:type="MSArtboardGroup" transform="translate(204.000000, -1132.000000)" fill="#6A7A95">
+            <g id="About" sketch:type="MSLayerGroup" transform="translate(-104.000000, 606.000000)">
+                <g id="arrow-with-circle-right" transform="translate(0.000000, 348.000000)" sketch:type="MSShapeGroup">
+                    <path d="M9.999,278.4 C15.302,278.4 19.6,282.698 19.6,288 C19.6,293.303 15.302,297.601 9.999,297.601 C4.698,297.601 0.399,293.303 0.399,288 C0.399,282.698 4.698,278.4 9.999,278.4 L9.999,278.4 L9.999,278.4 Z M10,295.6 C14.197,295.6 17.6,292.198 17.6,288 C17.6,283.802 14.198,280.4 10,280.4 C5.802,280.4 2.399,283.803 2.399,288 C2.399,292.197 5.803,295.6 10,295.6 L10,295.6 L10,295.6 Z M9.999,286 L13.999,286 L13.999,290 L9.999,290 L9.999,292.5 L5.499,288 L9.999,283.5 L9.999,286 L9.999,286 Z" id="icon-previous"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

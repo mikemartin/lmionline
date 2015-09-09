@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Homepage" sketch:type="MSArtboardGroup" transform="translate(-647.000000, -114.000000)" fill="#69788C">
+            <g id="Header" sketch:type="MSLayerGroup" transform="translate(-27.000000, 0.000000)">
+                <g id="Primary-Nav" transform="translate(190.000000, 37.000000)" sketch:type="MSShapeGroup">
+                    <path d="M484.516,77.548 C484.952,77.102 485.559,77.067 486.092,77.548 L490,81.295 L493.908,77.548 C494.441,77.067 495.049,77.102 495.482,77.548 C495.918,77.993 495.89,78.745 495.482,79.163 C495.076,79.581 490.787,83.665 490.787,83.665 C490.57,83.888 490.285,84 490,84 C489.715,84 489.43,83.888 489.211,83.665 C489.211,83.665 484.924,79.581 484.516,79.163 C484.107,78.745 484.08,77.993 484.516,77.548 L484.516,77.548 Z" id="Shape-Copy-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

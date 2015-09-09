@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="74px" height="75px" viewBox="0 0 74 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Sector</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Homepage" sketch:type="MSArtboardGroup" transform="translate(-776.000000, -1453.000000)">
+            <g id="Browse" sketch:type="MSLayerGroup" transform="translate(0.000000, 1102.000000)">
+                <g id="Cards" transform="translate(149.000000, 289.000000)" sketch:type="MSShapeGroup">
+                    <g id="Sector" transform="translate(627.000000, 62.000000)">
+                        <g id="Group">
+                            <path d="M56.7333333,75 L0,75 L0,35.2938776 L36.6916667,18.6979592 L56.7333333,25.8326531 L56.7333333,75 L56.7333333,75 Z M3.08333333,71.8979592 L53.65,71.8979592 L53.65,27.8489796 L36.6916667,21.955102 L3.08333333,37.155102 L3.08333333,71.8979592 L3.08333333,71.8979592 Z" id="Shape" fill="#69788C"></path>
+                            <rect id="Rectangle-path" fill="#69788C" x="34.9958333" y="21.4897959" width="3.08333333" height="51.9591837"></rect>
+                            <g transform="translate(6.166667, 34.122449)" id="Rectangle-path" fill="#69788C">
+                                <rect transform="translate(11.642852, 4.915181) rotate(72.788166) translate(-11.642852, -4.915181) " x="10.1012129" y="-6.63971236" width="3.0832776" height="23.1097864"></rect>
+                                <rect transform="translate(11.793287, 14.181566) rotate(78.082127) translate(-11.793287, -14.181566) " x="10.2516911" y="2.93718089" width="3.08319275" height="22.4887705"></rect>
+                                <rect transform="translate(11.714855, 23.428029) rotate(83.973001) translate(-11.714855, -23.428029) " x="10.173146" y="12.3379263" width="3.08341851" height="22.1802045"></rect>
+                                <rect x="0.770833333" y="31.2612245" width="21.8916667" height="3.10204082"></rect>
+                            </g>
+                            <path d="M60.9076923,75 L74,75 L74,8.46122449 L49.6416667,0.395918367 L26.825,10.7877551 L26.825,18.4509494 L29.9083333,17.0849156 L29.9083333,12.6489796 L49.95,3.80816327 L70.9166667,10.6326531 L70.9166667,71.8979592 L60.8838305,71.8979592 L60.9076923,75 Z" id="Shape" fill="#DD2A49"></path>
+                            <rect id="Rectangle-path" fill="#DD2A49" x="61.6666667" y="14.2" width="3.08333333" height="6.04897959"></rect>
+                            <rect id="Rectangle-path" fill="#DD2A49" x="61.6666667" y="25.0571429" width="3.08333333" height="6.04897959"></rect>
+                            <rect id="Rectangle-path" fill="#DD2A49" x="61.6666667" y="35.9142857" width="3.08333333" height="6.20408163"></rect>
+                            <rect id="Rectangle-path" fill="#DD2A49" x="61.6666667" y="46.9265306" width="3.08333333" height="6.04897959"></rect>
+                            <rect id="Rectangle-path" fill="#DD2A49" x="61.6666667" y="57.7836735" width="3.08333333" height="6.04897959"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
