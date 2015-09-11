@@ -53,21 +53,11 @@ register or login (TBD)
 	- Email form
 
 
-# Sitemap
-- Home
-	- Browse by region, sector/industry, occupation groups
-# Primary Nav
-- Features
-- Pricing
-- About
-- Blog
-
 # Utility Nav
+- About
+- News
+- Contact
 
-# Footer Nav
-- Docs
-- Terms and Conditions
-- Privacy Policy
 
 # Models
 - Document
@@ -101,19 +91,9 @@ and not doctors)
 - Logical search and browse options for the labour market information documents. The site will have all
 documents organized by category, and the following functionalities: the ability to browse easily, to search by keyword(s), and to easily download the desired document via a link to a PDF.
 
-
-————
-
-# Homepage
-Labour Market Information introduction
-Regions
-Projects
-Sectors/Industries
-
 # Regions
 Introduction
 All Documents by Region
-
 
 # Project
 Title
@@ -126,10 +106,5 @@ Project Documents by Sector
 
 # Occupational snapshots
 - Snapshots sorted by Project
-
-# About
-
-# News
-
 
 
