@@ -1,3 +1,6 @@
+** Disclaimer: The below notes were used during the UX phase of the project. However, some of the notes may not be entirely accurate and should not be considered scope. Please see the original project scrope from Lucent. **
+
+
 Labour Market Information
 =============
 The Asia Pacific Gateway Skills Table (APGST) is a non-profit, regional partnership between labour, business and education/ training institutions with a mission to ensure the Asia Pacific Gateway has enough people with the right skills and training to meet its needs.
